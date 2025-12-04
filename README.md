@@ -1,6 +1,6 @@
-# Advice Generator
+# Chatbot
 
 🔗 **Live Website:**  
-https://giorgimumladze.github.io/advice-generator/
+https://giorgimumladze.github.io/chatbot/
 
-A simple project built with React + Vite.
+A project built with React + Vite.
